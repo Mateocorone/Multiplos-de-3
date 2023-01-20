@@ -1,0 +1,101 @@
+modulo de 3
+1
+2
+modulo de 3
+4
+5
+modulo de 3
+7
+8
+modulo de 3
+10
+11
+modulo de 3
+13
+14
+modulo de 3
+16
+17
+modulo de 3
+19
+20
+modulo de 3
+22
+23
+modulo de 3
+25
+26
+modulo de 3
+28
+29
+modulo de 3
+31
+32
+modulo de 3
+34
+35
+modulo de 3
+37
+38
+modulo de 3
+40
+41
+modulo de 3
+43
+44
+modulo de 3
+46
+47
+modulo de 3
+49
+50
+modulo de 3
+52
+53
+modulo de 3
+55
+56
+modulo de 3
+58
+59
+modulo de 3
+61
+62
+modulo de 3
+64
+65
+modulo de 3
+67
+68
+modulo de 3
+70
+71
+modulo de 3
+73
+74
+modulo de 3
+76
+77
+modulo de 3
+79
+80
+modulo de 3
+82
+83
+modulo de 3
+85
+86
+modulo de 3
+88
+89
+modulo de 3
+91
+92
+modulo de 3
+94
+95
+modulo de 3
+97
+98
+modulo de 3
+modulo de 3
